@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Haytham CHRIFI
 
-<!--
-**0xB0oMa/0xB0oMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity Student | Bug Bounty Hunter | Aspiring Pentester
 
-Here are some ideas to get you started:
+🔒 Passionate about web security, network defense, and cloud security.  
+🐞 Exploring bug bounty, penetration testing, and offensive security.  
+☁️ Hands-on with AWS security and endpoint management (MDM/UEM).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🎓 2nd-year Master’s student in Cybersecurity (CDSI)
+- 🔍 Focus: Web Security, Network Security, SOC, Cloud Security
+- 💡 Interests: Bug bounty, intrusion detection, pentesting, cryptosystems
+- 💻 Tools I Use: Burp Suite, Katana, Nmap, Wireshark, OpenSSL
+- 🌐 Learning: Advanced AWS Security, Smart City eSecurity, MDM/UEM
+
+---
+
+## ⚒️ Skills
+
+### Programming & Scripting
+- Python 🐍 | Bash 🖥️ | JavaScript 🌐 | SQL 💾
+
+### Tools & Platforms
+- Burp Suite | Katana | Nmap | Wireshark | OpenSSL
+- AWS | Linux | Git | Docker
+
+### Domains
+- Web Security | Network Security | Cloud Security | SOC | Mobile Security
+
+---
+
+## 📂 Projects & Labs
+
+| Project | Description | Tools / Languages |
+|---------|-------------|-----------------|
+| 🔐 **SQLi Lab with PDO** | Practice safe SQL queries & injection testing | Python, MySQL, PDO |
+| 🧠 **ML Intrusion Detection** | Detect network attacks using ML | Python, scikit-learn, pandas |
+| 🔑 **Cryptosystem Optimization** | Key optimization with heuristic algorithms | Python, GA, Simulated Annealing |
+| 🐞 **Bug Bounty Writeups** | Documented vulnerabilities & exploits | Markdown, Burp Suite |
+| ☁️ **AWS Security Notes** | Cloud configuration & security best practices | AWS, Terraform |
+
+---
+
+## 📊 GitHub Stats
+![Haytham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0h1&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0h1&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=c0h1&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
+[![Email](https://img.shields.io/badge/Email-haytham.chrifi@gmail.com-red?logo=gmail)](mailto:haytham.chrifi@gmail.com)  
+
+---
+
+## 🧪 Learning & Certifications
+- CPTS: Certified Penetration Testing Specialist (in progress)  
+- AWS Cloud Security (hands-on labs)  
+- Mobile & Endpoint Security (MDM/UEM internship)  
+- Bug bounty platforms: HackerOne, Bugcrowd  
+
+---
+
+## ⚡ Fun Hacker Vibe
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Bug+Bounty+Hunter;Future+SOC+Analyst)
