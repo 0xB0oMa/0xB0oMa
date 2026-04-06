@@ -37,16 +37,6 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
 
 ---
-## 📂 Projects & Labs
-
-| Project | Description | Tools / Languages |
-|---------|-------------|-----------------|
-| 🔐 **SQLi Lab with PDO** | Practice safe SQL queries & injection testing | Python, MySQL, PDO |
-| 🧠 **ML Intrusion Detection** | Detect network attacks using ML | Python, scikit-learn, pandas |
-| 🔑 **Cryptosystem Optimization** | Key optimization with heuristic algorithms | Python, GA, Simulated Annealing |
-| 🐞 **Bug Bounty Writeups** | Documented vulnerabilities & exploits | Markdown, Burp Suite |
-| ☁️ **AWS Security Notes** | Cloud configuration & security best practices | AWS, Terraform |
----
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
