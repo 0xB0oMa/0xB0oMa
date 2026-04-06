@@ -23,6 +23,29 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![PowerView](https://img.shields.io/badge/PowerView-darkblue?style=for-the-badge)
 ![BloodHound](https://img.shields.io/badge/BloodHound-red?style=for-the-badge)
 
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
+![ModSecurity](https://img.shields.io/badge/ModSecurity-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-green?style=for-the-badge)
+![Alert Management](https://img.shields.io/badge/Alert_Management-yellow?style=for-the-badge)
+![Rule Creation](https://img.shields.io/badge/Rule_Creation-purple?style=for-the-badge)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kali-linux)
+![RedHat](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=red-hat)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![Active Directory](https://img.shields.io/badge/Active_Directory-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
+![OSI Model](https://img.shields.io/badge/OSI_Model-purple?style=for-the-badge)
+![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-orange?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+
+
+
 ---
 
 ## 📂 Projects & Labs
