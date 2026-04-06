@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Haytham CHRIFI
 
-## ⚡ Fun Hacker Vibe
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Bug+Bounty+Hunter;Future+SOC+Analyst)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester)
 
 ### Cybersecurity Student | Bug Bounty Hunter | Aspiring Pentester
 
