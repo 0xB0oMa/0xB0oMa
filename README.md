@@ -31,7 +31,9 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 ---
 ## 📜 Certifications
-[![eJPT](https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359)](https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD)
+<a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD" target="_blank">
+  <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="eJPT" width="80" height="100">
+</a>
 <img width="80" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" />
 <img width="100" height="100" alt="redhat1" src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" />
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
