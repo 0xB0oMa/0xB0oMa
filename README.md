@@ -12,8 +12,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ## ⚒️ Skills
 
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![NMAP](https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logo=nmap)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-gray?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge)
