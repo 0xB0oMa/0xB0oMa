@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Haytham CHRIFI
 
+## ⚡ Fun Hacker Vibe
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Bug+Bounty+Hunter;Future+SOC+Analyst)
+
 ### Cybersecurity Student | Bug Bounty Hunter | Aspiring Pentester
 
 🔒 Passionate about web security, network defense, and cloud security.  
@@ -61,8 +64,3 @@
 - AWS Cloud Security (hands-on labs)  
 - Mobile & Endpoint Security (MDM/UEM internship)  
 - Bug bounty platforms: HackerOne, Bugcrowd  
-
----
-
-## ⚡ Fun Hacker Vibe
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Bug+Bounty+Hunter;Future+SOC+Analyst)
