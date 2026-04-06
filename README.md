@@ -11,15 +11,17 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 ## ⚒️ Skills
 
-### Programming & Scripting
-- Python 🐍 | Bash 🖥️ | JavaScript 🌐 | SQL 💾
-
-### Tools & Platforms
-- Burp Suite | Katana | Nmap | Wireshark | OpenSSL
-- AWS | Linux | Git | Docker
-
-### Domains
-- Web Security | Network Security | Cloud Security | SOC | Mobile Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite)
+![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge&logo=sqlmap)
+![NMAP](https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-purple?style=for-the-badge&logo=metasploit)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-gray?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-red?style=for-the-badge)
+![Impacket](https://img.shields.io/badge/Impacket-lightblue?style=for-the-badge)
+![Responder](https://img.shields.io/badge/Responder-darkgreen?style=for-the-badge)
+![PowerView](https://img.shields.io/badge/PowerView-darkblue?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-red?style=for-the-badge)
 
 ---
 
