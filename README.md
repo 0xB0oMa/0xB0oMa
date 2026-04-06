@@ -12,15 +12,8 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ## ⚒️ Skills
 
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-gray?style=for-the-badge)
-![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-red?style=for-the-badge)
-![Impacket](https://img.shields.io/badge/Impacket-lightblue?style=for-the-badge)
-![Responder](https://img.shields.io/badge/Responder-darkgreen?style=for-the-badge)
-![PowerView](https://img.shields.io/badge/PowerView-darkblue?style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-red?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=blue)
+![Metasploit](https://img.shields.io/badge/metasploit-black?style=for-the-badge&logo=metasploit&logoColor=blue)
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
