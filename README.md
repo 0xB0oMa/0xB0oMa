@@ -12,7 +12,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ## ⚒️ Skills
 
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
-![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge&logo=sqlmap)
+![SQLMap](https://img.shields.io/badge/sqlmap-CC2927?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![NMAP](https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logo=nmap)
 ![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
