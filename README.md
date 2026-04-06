@@ -42,7 +42,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 | ☁️ **AWS Security Notes** | Cloud configuration & security best practices | AWS, Terraform |
 
 ---
-<img width="100" height="100" alt="ejpt" src="https://github.com/user-attachments/assets/a436b697-2761-4453-bffa-f62d54022b3a" />
+<img width="100" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/a89ad6ea-ef87-4aa5-8bd8-39bd8e0b0a78" />
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/e562f4b1-bb2f-4c80-a8b6-3e612cdcb47d" />
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
 
