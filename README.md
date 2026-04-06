@@ -30,7 +30,13 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 
 ---
+## Certifications
 
+<img width="80" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" />
+<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/e562f4b1-bb2f-4c80-a8b6-3e612cdcb47d" />
+<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
+
+---
 ## 📂 Projects & Labs
 
 | Project | Description | Tools / Languages |
@@ -42,10 +48,6 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 | ☁️ **AWS Security Notes** | Cloud configuration & security best practices | AWS, Terraform |
 
 ---
-<img width="80" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" />
-<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/e562f4b1-bb2f-4c80-a8b6-3e612cdcb47d" />
-<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
-
 
 
 ## 📊 GitHub Stats
