@@ -14,6 +14,9 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
 ![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=blue)
 ![Metasploit](https://img.shields.io/badge/metasploit-black?style=for-the-badge&logo=metasploit&logoColor=blue)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue)
+![RedHat](https://img.shields.io/badge/RedHat-black?style=for-the-badge&logo=red-hat&logoColor=red)
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
@@ -22,9 +25,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Alert Management](https://img.shields.io/badge/Alert_Management-yellow?style=for-the-badge)
 ![Rule Creation](https://img.shields.io/badge/Rule_Creation-purple?style=for-the-badge)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-blue?style=for-the-badge&logo=kali-linux)
-![RedHat](https://img.shields.io/badge/RedHat-red?style=for-the-badge&logo=red-hat)
+
 ![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
