@@ -30,7 +30,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 
 ---
-## 🧪 Certifications
+## 📜 Certifications
 
 <img width="80" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" />
 <img width="100" height="100" alt="redhat1" src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" />
