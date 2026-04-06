@@ -25,6 +25,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 
 
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-green?style=for-the-badge)
