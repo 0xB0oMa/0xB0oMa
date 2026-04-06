@@ -44,7 +44,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
-[![Email](https://img.shields.io/badge/Email-haytham.chrifi@gmail.com-red?logo=gmail)](mailto:haytham.chrifi@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-haytham.chrifi@gmail.com-red?logo=gmail)](mailto:hay.chrifi@gmail.com)  
 
 ---
 
