@@ -24,23 +24,9 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![PowerShell](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-black?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
-
-
-![Log Analysis](https://img.shields.io/badge/Log_Analysis-green?style=for-the-badge)
-![Alert Management](https://img.shields.io/badge/Alert_Management-yellow?style=for-the-badge)
-![Rule Creation](https://img.shields.io/badge/Rule_Creation-purple?style=for-the-badge)
-
-
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-green?style=for-the-badge)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
-![OSI Model](https://img.shields.io/badge/OSI_Model-purple?style=for-the-badge)
-![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-orange?style=for-the-badge)
-
-
 
 
 ---
