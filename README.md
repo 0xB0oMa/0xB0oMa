@@ -4,7 +4,7 @@
 
 ---
 
-##  About Me
+##  👨‍💻 About Me
 Cybersecurity Master’s student focused on offensive & defensive security, endpoint protection, and cloud security. Hands-on experience in penetration testing through Hack The Box (HTB), specializing in web vulnerabilities, network exploitation, and privilege escalation. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response. Passionate about building practical security solutions and conducting vulnerability assessments, with the goal of becoming a skilled SOC Analyst or Penetration Tester.
 
 ---
@@ -30,14 +30,13 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 
 ---
-## Certifications
+## 🧪 Certifications
 
 <img width="80" height="100" alt="eJPT" src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" />
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/e562f4b1-bb2f-4c80-a8b6-3e612cdcb47d" />
 <img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
 
 ---
-'''
 ## 📂 Projects & Labs
 
 | Project | Description | Tools / Languages |
@@ -47,25 +46,9 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 | 🔑 **Cryptosystem Optimization** | Key optimization with heuristic algorithms | Python, GA, Simulated Annealing |
 | 🐞 **Bug Bounty Writeups** | Documented vulnerabilities & exploits | Markdown, Burp Suite |
 | ☁️ **AWS Security Notes** | Cloud configuration & security best practices | AWS, Terraform |
-'''
----
-
-
-## 📊 GitHub Stats
-![Haytham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=c0h1&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c0h1&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=c0h1&theme=tokyonight)
-
 ---
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
 [![Email](https://img.shields.io/badge/Email-hay.chrifi@gmail.com-red?logo=gmail)](mailto:hay.chrifi@gmail.com)  
 
----
-
-## 🧪 Learning & Certifications
-- CPTS: Certified Penetration Testing Specialist (in progress)  
-- AWS Cloud Security (hands-on labs)  
-- Mobile & Endpoint Security (MDM/UEM internship)  
-- Bug bounty platforms: HackerOne, Bugcrowd  
