@@ -11,10 +11,11 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 
 ## ⚒️ Skills
 
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite)
+![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-red?style=for-the-badge&logo=sqlmap)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![NMAP](https://img.shields.io/badge/NMAP-blue?style=for-the-badge&logo=nmap)
-![Metasploit](https://img.shields.io/badge/Metasploit-purple?style=for-the-badge&logo=metasploit)
+![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-gray?style=for-the-badge)
 ![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge)
 ![Mimikatz](https://img.shields.io/badge/Mimikatz-red?style=for-the-badge)
@@ -26,7 +27,6 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
 ![Suricata](https://img.shields.io/badge/Suricata-red?style=for-the-badge)
 ![ModSecurity](https://img.shields.io/badge/ModSecurity-orange?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/Log_Analysis-green?style=for-the-badge)
 ![Alert Management](https://img.shields.io/badge/Alert_Management-yellow?style=for-the-badge)
 ![Rule Creation](https://img.shields.io/badge/Rule_Creation-purple?style=for-the-badge)
