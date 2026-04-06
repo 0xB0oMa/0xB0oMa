@@ -18,6 +18,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue)
 ![RedHat](https://img.shields.io/badge/RedHat-black?style=for-the-badge&logo=red-hat&logoColor=red)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 
