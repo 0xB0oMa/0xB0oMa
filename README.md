@@ -5,7 +5,7 @@
 ---
 
 ##  👨‍💻 About Me
-Cybersecurity Master’s student focused on offensive & defensive security, endpoint protection, and cloud security. Hands-on experience in penetration testing through Hack The Box (HTB), specializing in web vulnerabilities, network exploitation, and privilege escalation. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response. Passionate about building practical security solutions and conducting vulnerability assessments, with the goal of becoming a skilled SOC Analyst or Penetration Tester.
+Cybersecurity Master’s student focused on offensive and defensive security, endpoint protection, and cloud security. Hands-on experience in penetration testing through Hack The Box (HTB), specializing in web vulnerabilities, network exploitation, and privilege escalation. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response. Passionate about building practical security solutions and performing vulnerability assessments, seeking to gain experience across both Blue Team and Red Team domains.
 
 ---
 
