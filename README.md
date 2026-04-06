@@ -19,6 +19,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![RedHat](https://img.shields.io/badge/RedHat-black?style=for-the-badge&logo=red-hat&logoColor=red)
 ![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 
@@ -36,7 +37,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
 ![OSI Model](https://img.shields.io/badge/OSI_Model-purple?style=for-the-badge)
 ![Routing & Switching](https://img.shields.io/badge/Routing_&_Switching-orange?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws)
+
 
 
 
