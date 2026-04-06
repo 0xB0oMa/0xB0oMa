@@ -17,6 +17,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kali-linux&logoColor=blue)
 ![RedHat](https://img.shields.io/badge/RedHat-black?style=for-the-badge&logo=red-hat&logoColor=red)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
 
@@ -28,7 +29,7 @@ Cybersecurity Master’s student focused on offensive & defensive security, endp
 ![Rule Creation](https://img.shields.io/badge/Rule_Creation-purple?style=for-the-badge)
 
 
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+
 ![Active Directory](https://img.shields.io/badge/Active_Directory-green?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-blue?style=for-the-badge)
