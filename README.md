@@ -2,20 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&lines=Cybersecurity+Student;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester)
 
-### Cybersecurity Student | Bug Bounty Hunter | Aspiring Pentester
-
-🔒 Passionate about web security, network defense, and cloud security.  
-🐞 Exploring bug bounty, penetration testing, and offensive security.  
-☁️ Hands-on with AWS security and endpoint management (MDM/UEM).
-
 ---
 
-## 🧠 About Me
-- 🎓 2nd-year Master’s student in Cybersecurity (CDSI)
-- 🔍 Focus: Web Security, Network Security, SOC, Cloud Security
-- 💡 Interests: Bug bounty, intrusion detection, pentesting, cryptosystems
-- 💻 Tools I Use: Burp Suite, Katana, Nmap, Wireshark, OpenSSL
-- 🌐 Learning: Advanced AWS Security, Smart City eSecurity, MDM/UEM
+##  About Me
+Cybersecurity Master’s student focused on offensive & defensive security, endpoint protection, and cloud security. Hands-on experience in penetration testing through Hack The Box (HTB), specializing in web vulnerabilities, network exploitation, and privilege escalation. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response. Passionate about building practical security solutions and conducting vulnerability assessments, with the goal of becoming a skilled SOC Analyst or Penetration Tester.
 
 ---
 
