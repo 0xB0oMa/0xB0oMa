@@ -49,10 +49,7 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 | Project                              | Description                                                                         | Skills                                             | Link                                                                     |
 | ------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |
-| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [View Repo](https://github.com/your-username/aws-cloud-security-journey) |
-| 🛡️ HTB Penetration Testing Labs     | Practical labs focused on real-world attack techniques and exploitation             | Web Exploitation, Privilege Escalation, Networking | Coming Soon                                                              |
-| 🔍 Web Security Testing Project      | Testing web apps for vulnerabilities and implementing secure coding practices       | SQL Injection, PDO, Input Validation               | Coming Soon                                                              |
-| 🔐 Cryptography Optimization Project | Optimization of encryption keys using heuristic algorithms                          | Python, Genetic Algorithm, Simulated Annealing     | Coming Soon                                                              |
+| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [View Repo](https://github.com/your-username/aws-cloud-security-journey) |                                                          |
 
 
 ## 🔗 Connect With Me
