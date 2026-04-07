@@ -9,6 +9,20 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 ---
 
+## 📜 Certifications
+
+<a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD">
+  <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="eJPT" width="80" height="100">
+</a>
+<a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-system-administration-i-rh124-rha-ver-10">
+<img width="100" height="100" alt="redhat1" src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" />
+</a>
+<a href="https://www.credly.com/badges/098130e7-5e25-4bd0-b461-d7610c5b2bbb">
+<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
+</a>
+
+---
+
 ## ⚒️ Skills
 
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
@@ -30,19 +44,16 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 
 ---
-## 📜 Certifications
 
-<a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD">
-  <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="eJPT" width="80" height="100">
-</a>
-<a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-system-administration-i-rh124-rha-ver-10">
-<img width="100" height="100" alt="redhat1" src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" />
-</a>
-<a href="https://www.credly.com/badges/098130e7-5e25-4bd0-b461-d7610c5b2bbb">
-<img width="100" height="100" alt="redhat2" src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" />
-</a>
+## 🚀 Projects
 
----
+| Project                              | Description                                                                         | Skills                                             | Link                                                                     |
+| ------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |
+| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [View Repo](https://github.com/your-username/aws-cloud-security-journey) |
+| 🛡️ HTB Penetration Testing Labs     | Practical labs focused on real-world attack techniques and exploitation             | Web Exploitation, Privilege Escalation, Networking | Coming Soon                                                              |
+| 🔍 Web Security Testing Project      | Testing web apps for vulnerabilities and implementing secure coding practices       | SQL Injection, PDO, Input Validation               | Coming Soon                                                              |
+| 🔐 Cryptography Optimization Project | Optimization of encryption keys using heuristic algorithms                          | Python, Genetic Algorithm, Simulated Annealing     | Coming Soon                                                              |
+
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
