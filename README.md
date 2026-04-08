@@ -49,7 +49,7 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 | Project                              | Description                                                                         | Skills                                             | Link                                                                     |
 | ------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |
-| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [Repo](http://github.com/0xB0oMa/aws-cloud-security-journey) |                                                          |
+| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [View Repo](http://github.com/0xB0oMa/aws-cloud-security-journey) |                                                          |
 
 
 ## 🔗 Connect With Me
