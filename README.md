@@ -27,6 +27,27 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 ---
 
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD">
+    <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" width="100"/><br>
+    eJPT
+  </a>
+  
+  <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-system-administration-i-rh124-rha-ver-10">
+    <img src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" width="100"/><br>
+    Red Hat Admin I
+  </a>
+  
+  <a href="https://www.credly.com/badges/098130e7-5e25-4bd0-b461-d7610c5b2bbb">
+    <img src="https://github.com/user-attachments/assets/84876f8e-520a-4f1d-b66a-b1e06e8a60d1" width="100"/><br>
+    Red Hat Admin II
+  </a>
+</p>
+
+---
+
 ## ⚒️ Skills
 
 ![Burp Suite](https://img.shields.io/badge/burpsuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange)
