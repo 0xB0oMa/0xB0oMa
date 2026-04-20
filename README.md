@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Haytham CHRIFI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Security+Analyst;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester" />
 </p>
 
 ---
