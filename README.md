@@ -52,10 +52,12 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
 
 ## 🚀 Projects & Labs
 
-| Project                              | Description                                                                         | Skills                                             | Link                                                                     |
-| ------------------------------------ | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------ |
-| ☁️ AWS Cloud Security Journey        | Hands-on AWS labs covering foundations and security with focus on misconfigurations | AWS, IAM, VPC, Cloud Security                      | [View Repo](http://github.com/0xB0oMa/aws-cloud-security-journey) |                                                          |
+## 🚀 Projects & Labs
 
+| Project                       | Description                                                                                   | Skills                                   | Link                                                                 |
+| ----------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
+| ☁️ AWS Cloud Security Journey | Hands-on AWS labs covering foundations and security with focus on misconfigurations          | AWS, IAM, VPC, Cloud Security            | [View Repo](http://github.com/0xB0oMa/aws-cloud-security-journey)    |
+| 🔐 IAM Labs (Multi-Platform)  | Hands-on labs covering IAM in AWS, Active Directory, and Linux with focus on misconfigs & escalation | AWS IAM, Active Directory, Linux, RBAC, Security | [View Repo](#)                                                      |
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haytham-blue?logo=linkedin)](https://www.linkedin.com/in/haytham-chrifi/)  
