@@ -17,7 +17,7 @@ Cybersecurity Master’s student focused on offensive and defensive security, en
     <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="eJPT Certification" width="80"/>
   </a>
   
-  <a href="https://www.credly.com/org/red-hat-inc/badge/red-hat-system-administration-i-rh124-rha-ver-10">
+  <a href="https://www.credly.com/earner/earned/badge/dc1ed741-4772-4628-9a01-c4bc02fd2818">
     <img src="https://github.com/user-attachments/assets/557da685-59fc-4050-8ff3-a3f8edce1700" alt="Red Hat System Administration I" width="100"/>
   </a>
   
