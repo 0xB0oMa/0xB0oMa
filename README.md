@@ -5,29 +5,10 @@
 
 <!-- TYPING INTRO -->
 <p align="center">
-
-  <!-- RED TEAM -->
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=DC2626&center=true&vCenter=true&width=900&lines=Red+Team+Operations+%7C+Exploitation+%7C+Adversary+Simulation"
-    alt="Red Team"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Penetration+Testing+%7C+Threat+Research;Building+Hardened+Systems+for+Real-World+Defense;Exploiting+Weaknesses.+Engineering+Resilience.;Linux+%7C+Networking+%7C+Cloud+Security+%7C+Automation"
+    alt="Typing SVG"
   />
-
-  <br/>
-
-  <!-- BLUE TEAM -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Blue+Team+Defense+%7C+Threat+Detection+%7C+Incident+Response"
-    alt="Blue Team"
-  />
-
-  <br/>
-
-  <!-- PURPLE TEAM -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Think+Like+an+Attacker.+Defend+Like+an+Engineer."
-    alt="Purple Team"
-  />
-
 </p>
 
 ---
