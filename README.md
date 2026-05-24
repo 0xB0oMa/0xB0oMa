@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:7f1d1d,100:dc2626&height=240&section=header&text=Haytham%20Chrifi&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20%26%20Blue%20Team%20Operator&descAlignY=60&descSize=18&descFontColor=e2e8f0"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1d4ed8,75:991b1b,100:dc2626&height=250&section=header&text=Haytham%20Chrifi&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Red%20Team%20Operator%20|%20Blue%20Team%20Defender&descAlignY=60&descSize=20&descFontColor=f8fafc"
 />
 
 <!-- TYPING INTRO -->
