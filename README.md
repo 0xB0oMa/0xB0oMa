@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Haytham CHRIFI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a2e&height=220&section=header&text=Anas%20Aouina&fontSize=52&fontAlignY=38&fontColor=00ff9f&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Secure%20Systems%20Builder&descSize=18&descAlignY=60&descFontColor=c0c0c0"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Network+Defense+%7C+Vulnerability+Research;Building+Secure+Systems+from+the+Ground+Up;Think+Like+an+Attacker.+Defend+Like+an+Engineer." alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester" />
