@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1d4ed8,75:991b1b,100:dc2626&height=250&section=header&text=Haytham%20Chrifi&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Blue%20Team%20Defender%20|%20Red%20Team%20Operator&descAlignY=60&descSize=20&descFontColor=f8fafc"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1d4ed8,75:991b1b,100:dc2626&height=250&section=header&text=Haytham%20Chrifi&fontSize=58&fontAlignY=38&fontColor=ffffff&animation=twinkling&desc=Blue%20Team%20Defender%20%7C%20Red%20Team%20Operator&descAlignY=60&descSize=20&descFontColor=f8fafc"
 />
 
 <!-- TYPING INTRO -->
