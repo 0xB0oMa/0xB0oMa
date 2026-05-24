@@ -1,21 +1,23 @@
 <!-- HERO BANNER -->
 <img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a0f2c,100:00ff9f&height=240&section=header&text=Haytham%20Chrifi&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20Operator%20%7C%20Secure%20Infrastructure%20Architect&descAlignY=60&descSize=18&descFontColor=b8ffda"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:7f1d1d,100:dc2626&height=240&section=header&text=Haytham%20Chrifi&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20%26%20Blue%20Team%20Operator&descAlignY=60&descSize=18&descFontColor=e2e8f0"
 />
 
 <!-- TYPING INTRO -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Penetration+Testing+%7C+Threat+Research;Building+Hardened+Systems+for+Real-World+Defense;Exploiting+Weaknesses.+Engineering+Resilience.;Linux+%7C+Networking+%7C+Cloud+Security+%7C+Automation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Red+Team+Operations+%7C+Blue+Team+Defense+%7C+Threat+Research;Offensive+Security+%7C+Detection+Engineering+%7C+Incident+Response;Think+Like+an+Attacker.+Defend+Like+an+Engineer.;Linux+%7C+Networking+%7C+Cloud+Security+%7C+Automation"
     alt="Typing SVG"
   />
 </p>
 
-<!-- OPTIONAL MINI BADGES -->
+<!-- RED & BLUE TEAM BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Security-Researcher-00ff9f?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Focus-Red%20%26%20Blue%20Team-0a0f2c?style=for-the-badge&logo=protonvpn&logoColor=00ff9f"/>
-  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux&logoColor=00ff9f"/>
+  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-b91c1c?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/Blue%20Team-Defense%20Engineering-1d4ed8?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/SOC-Threat%20Detection-0f172a?style=for-the-badge&logo=splunk&logoColor=60a5fa"/>
 </p>
 
 ---
