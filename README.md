@@ -11,15 +11,6 @@
   />
 </p>
 
-<!-- RED & BLUE TEAM BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Red%20Team-Offensive%20Security-b91c1c?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Blue%20Team-Defense%20Engineering-1d4ed8?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/SOC-Threat%20Detection-0f172a?style=for-the-badge&logo=splunk&logoColor=60a5fa"/>
-</p>
-
 ---
 ##  👨‍💻 About Me
 Cybersecurity Master’s student focused on offensive and defensive security, endpoint protection, and cloud security. Hands-on experience in penetration testing through Hack The Box (HTB), specializing in web vulnerabilities, network exploitation, and privilege escalation. Skilled in SOC operations with AWS-based projects, including threat detection, log analysis, and incident response. Passionate about building practical security solutions and performing vulnerability assessments, seeking to gain experience across both Blue Team and Red Team domains.
