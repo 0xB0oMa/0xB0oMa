@@ -1,11 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a2e&height=220&section=header&text=Anas%20Aouina&fontSize=52&fontAlignY=38&fontColor=00ff9f&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20Secure%20Systems%20Builder&descSize=18&descAlignY=60&descFontColor=c0c0c0"/>
+<!-- HERO BANNER -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0a0f2c,100:00ff9f&height=240&section=header&text=Haytham%20Chrifi&fontSize=56&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Red%20Team%20Operator%20%7C%20Secure%20Infrastructure%20Architect&descAlignY=60&descSize=18&descFontColor=b8ffda"
+/>
 
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&lines=Offensive+Security+%7C+Network+Defense+%7C+Vulnerability+Research;Building+Secure+Systems+from+the+Ground+Up;Think+Like+an+Attacker.+Defend+Like+an+Engineer." alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Penetration+Testing+%7C+Threat+Research;Building+Hardened+Systems+for+Real-World+Defense;Exploiting+Weaknesses.+Engineering+Resilience.;Linux+%7C+Networking+%7C+Cloud+Security+%7C+Automation"
+    alt="Typing SVG"
+  />
 </p>
 
+<!-- OPTIONAL MINI BADGES -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;Cloud+Security;Endpoint+Security;SOC+Analyst;Penetration+Tester" />
+  <img src="https://img.shields.io/badge/Security-Researcher-00ff9f?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Focus-Red%20%26%20Blue%20Team-0a0f2c?style=for-the-badge&logo=protonvpn&logoColor=00ff9f"/>
+  <img src="https://img.shields.io/badge/OS-Linux-black?style=for-the-badge&logo=linux&logoColor=00ff9f"/>
 </p>
 
 ---
