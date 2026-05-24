@@ -6,7 +6,7 @@
 <!-- TYPING INTRO -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Penetration+Testing+%7C+Threat+Research;Building+Hardened+Systems+for+Real-World+Defense;Exploiting+Weaknesses.IAM%7CIdentity+Managment"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF9F&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Penetration+Testing+%7C+Threat+Research;Building+Hardened+Systems+for+Real-World+Defense;SOC+Analyst%7CIAM%7CIdentity+Managment"
     alt="Typing SVG"
   />
 </p>
