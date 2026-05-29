@@ -20,6 +20,10 @@ Cybersecurity Analyst focused on offensive and defensive security, endpoint prot
 ## 📜 Certifications & Badges
 
 <p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/9c41403e-4339-4066-aa22-d5e90fae38ca">
+    <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" width="80"/>
+  </a>
+  
   <a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD">
     <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="eJPT Certification" width="80"/>
   </a>
