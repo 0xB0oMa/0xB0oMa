@@ -21,7 +21,7 @@ Cybersecurity Analyst focused on offensive and defensive security, endpoint prot
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/9c41403e-4339-4066-aa22-d5e90fae38ca">
-    <img src="https://github.com/user-attachments/assets/0fad1c6c-a028-4ab8-9444-6a8e99540359" alt="AWS Academy Graduate - Cloud Foundations - Training Badge" width="80"/>
+    <img width="601" height="601" alt="image" src="https://github.com/user-attachments/assets/5d670f44-8648-47f6-b7f6-8061da3f5053" />
   </a>
   
   <a href="https://certs.ine.com/b2345e9f-73d8-4aa1-8510-495ca20e746e#acc.7dWKYROD">
