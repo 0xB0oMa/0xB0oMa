@@ -20,6 +20,11 @@ Cybersecurity Analyst focused on offensive and defensive security, endpoint prot
 ## 📜 Certifications & Badges
 
 <p align="center">
+
+  <a href="https://www.credly.com/badges/d0b3ef43-3f6c-4d91-ad1d-654c5ffa5a6c">
+    <img width="90" height="100" alt="image" src="https://github.com/user-attachments/assets/e505b345-659b-47f3-ac6a-344972652c4b" />
+  </a>
+  
   <a href="https://www.credly.com/earner/earned/badge/9c41403e-4339-4066-aa22-d5e90fae38ca">
     <img width="90" height="100" alt="image" src="https://github.com/user-attachments/assets/5d670f44-8648-47f6-b7f6-8061da3f5053" />
   </a>
